@@ -165,5 +165,3 @@ Copying or reusing this portfolio design or source code without permission is no
 ---
 
 ⭐ If you like this project, consider giving it a **star on GitHub**!
-
-just wait

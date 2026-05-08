@@ -10,7 +10,7 @@ Built using **HTML, TailwindCSS, and JavaScript**, this portfolio highlights my 
 
 🔗 **Visit my portfolio**
 
-https://harshavardhanm08.github.io/harsha-portfolio
+https://harshavardhanm08.github.io/harsha-portfolio/
 
 ---
 
